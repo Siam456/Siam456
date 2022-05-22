@@ -4,6 +4,8 @@
 
 - I'm a full-stack developer
 
+---
+
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -27,6 +29,8 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+---
+
 <img alt="cover GIF" height=250 width=350 src="https://raw.githubusercontent.com/Siam456/Siam456/main/Image/cover.gif" />
 
 - 🔭 I’m currently working on MERN 
@@ -34,6 +38,8 @@
 - 💬 Ask me about JavaScript 
 - 📫 How to reach me: hasibulsiam27@gmail.com 
 - ⚡ Fun fact: I absolutely love JavaScript 
+
+---
 
 
 <img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siam456&theme=radical" />
