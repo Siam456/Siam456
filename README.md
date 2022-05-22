@@ -27,7 +27,7 @@
 
 ---
 
-<img alt="cover GIF" height=250 width=350 src="https://raw.githubusercontent.com/Siam456/Siam456/main/Image/cover.gif" />
+<img alt="cover GIF" height=300 width=400 src="https://raw.githubusercontent.com/Siam456/Siam456/main/Image/cover.gif" />
 
 
 - 🔭 I’m currently working on MERN.
