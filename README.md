@@ -38,6 +38,12 @@
 - 📫 How to reach me: hasibulsiam27@gmail.com 
 - ⚡ Fun fact: I absolutely love JavaScript 
 
+### Connect with me:
+
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://devsiam.netlify.app/)](https://devsiam.netlify.app/)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/hasib11038/)
+[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/profile.php?id=100005289167762)
+
 ---
 
 
