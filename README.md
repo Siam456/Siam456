@@ -32,11 +32,11 @@
 <img alt="cover GIF" height=250 width=350 src="https://raw.githubusercontent.com/Siam456/Siam456/main/Image/cover.gif" />
 
 
-- 🔭 I’m currently working on MERN 
-- 🌱 I’m currently learning TypeScript 
-- 💬 Ask me about JavaScript 
+- 🔭 I’m currently working on MERN.
+- 🌱 I’m currently learning TypeScript.
+- 💬 Ask me about JavaScript. 
 - 📫 How to reach me: hasibulsiam27@gmail.com 
-- ⚡ Fun fact: I absolutely love JavaScript 
+- ⚡ Fun fact: I absolutely love Tech.
 
 ### Connect with me:
 
