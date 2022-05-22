@@ -4,8 +4,6 @@
 
 - I'm a full-stack developer
 
----
-
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -33,6 +31,7 @@
 
 <img alt="cover GIF" height=250 width=350 src="https://raw.githubusercontent.com/Siam456/Siam456/main/Image/cover.gif" />
 
+
 - 🔭 I’m currently working on MERN 
 - 🌱 I’m currently learning TypeScript 
 - 💬 Ask me about JavaScript 
@@ -45,6 +44,7 @@
 <img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siam456&theme=radical" />
 
 [![siam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siam456)](https://github.com/anuraghazra/github-readme-stats)
+---
 <br />
 <br />
 <br />
