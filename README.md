@@ -27,7 +27,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-![](https://img.etimg.com/thumb/msid-84146083,width-1015,height-401,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg)
+<img alt="cover GIF" height=250 width=350 src="https://raw.githubusercontent.com/Siam456/Siam456/main/Image/cover.gif" />
 
 - 🔭 I’m currently working on MERN 
 - 🌱 I’m currently learning TypeScript 
