@@ -45,7 +45,7 @@
 ---
 
 
-<img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siam456&theme=radical" />
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Siam456)](https://github.com/siam456/github-readme-stats)
 <br />
 
 [![siam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siam456)](https://github.com/anuraghazra/github-readme-stats)
