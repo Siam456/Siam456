@@ -49,9 +49,11 @@
 <br />
 
 [![siam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siam456&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
----
-<br />
 
+
+
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Siam456)  
 
 
 #### :technologist: Personal Portfolio: [devsiam.netlify.app](https://devsiam.netlify.app/)
