@@ -53,7 +53,7 @@
 
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Siam456&theme=vue)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Siam456)  
 
 
 #### :technologist: Personal Portfolio: [devsiam.netlify.app](https://devsiam.netlify.app/)
