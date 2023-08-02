@@ -4,7 +4,7 @@
 
 - I'm a full-stack developer
 
-## ⚡ Technologies
+## ⚡ Technologies 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node-dot-js&logoColor=white)
